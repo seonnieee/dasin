@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+*{margin:0; box-sizing:border-box}
+#wrap{width:100%;}
+ul,ol,li{list-style:none; margin:0; padding:0;}
+table, tr, th, td{margin:0; padding:0;}
+.blank1{width:1130px; height:40px; margin:0 auto;}
+.blank2{width:1130px; height:90px; margin:0 auto; }
+.banner{width:1090px; height:130px; margin:0 auto;}
+.imground1{width:256px; height:256px; border-radius:8px; overflow:hidden;}
+.imground2{width:528px; height:344px; border-radius:8px; overflow:hidden;}
+.imground3{width:345px; height:305px; border-radius:8px; overflow:hidden;}
+.imground4{width:200px; height:200px; border-radius:8px; overflow:hidden;}
+
+
+/*로그인 박스 시작*/
+#top{width:100%; height:40px; margin:0 auto; background-color:rgb(226, 226, 226);}
+#box1{width:1200px; height:40px; margin:0 auto;}
+#top > #box1 > ul > li > a{text-decoration:none; color:#777;}
+#top > #box1 > ul > li > a:hover{color:#000;}
+#top > #box1 > ul > li{color:#777; float:left;}
+#top > #box1 > #login > li:nth-of-type(1){margin:0 0 0 20px;}
+#top > #box1 > #mainlink > li{font-size:12px; font-weight:bold; margin:2px 25px 0px 0px;}
+#top > #box1 > #login > li{font-size:11px; font-weight:bold; margin:0px 5px;}
+#mainlink{width:200px; height:20px; float:left; margin:10px 0px 0px 0px;}
+#login{width:400px; height:20px; float:right; margin:10px 0px 0px 0px;}
+/*로그인 박스 종료*/
+
+/*로고 박스 시작*/
+#box2{width:1200px; height:100px; margin:0 auto; position:relative;}
+#box2 > #logo1{width:120px; height:25px; margin:40px 0px 0px 0px; float:left;}
+#box2 > #logo1 > a > img{width:100%; height:100%}
+#box2 > #logo2{width:70px; height:65px; margin:20px 400px 0px 400px; float:left;}
+#box2 > #logo2 > a > img{width:100%; height:100%}
+#box2 > #search{width:230px; height:30px; border:0.8px solid #eee; margin:35px 150px 0px 0px; float:right; position:absolute; top:0; right:0;}
+#box2 > #search > .search_text{width:195px; height:28px; float:left; border:none;}
+#box2 > #search > .search_icon{width:20px; height:20px; float:right; margin:5px 5px 0px 0px;}
+#box2 > .loginicon {float:right; margin:37px 50px 0px 0px;}
+#box2 > .loginicon > a > img{padding:0 0 0 10px;}
+/*로고 박스 종료*/
+
+/*footer 시작*/
+footer{width:100%; height:500px; margin:0 auto; border-top:1px solid black;}
+#top_line{width:100%; height:50px; border-bottom:1px solid #cfcfcf;}
+#top_line > ul {width:1130px; height:50px; margin:0 auto;}
+#top_line> ul > li{float:left; margin:15px 20px 15px 0px; font-size:15px; color:#222;}
+#top_line > ul > li > a{text-decoration:none; font-size:15px; letter-spacing:-0.08em; color:#222;}
+#top_line > ul > li > a:hover{color:#d7266d}
+#bottom_line{width:1130px;height:400px; margin:0 auto;}
+#bottom_line > article{width:370px; height:370px; float:left; margin:15px 6.5px 0px 0px;}
+#last_line{width:1130px; height:50px; margin:0 auto; border-top:1px solid #eee;}
+.bottom_title{color:#000; margin:0px 0px 5px 0px;}
+.bottom_p{width:30px; height:10px; border-top:1px solid #000;}
+/*고객센터 박스*/
+#center > h3{display:inline-block; font-size:25px; color:#000;}
+#center > p{font-size:13px; color:#999; letter-spacing:-0.08em; line-height:20px;}
+#center > a > button{font-size:12px; color:#333; letter-spacing:-0.08em; background-color:#f4f4f4; 
+    border:1px solid #c7c7c7; margin:20px 0px 60px 0px; padding:5px 35px;}
+#center > a > button:hover{color:#d7266d; cursor:pointer;}
+#center > table,tr,td > a{text-decoration:none; font-size:13px; color:#999;}
+#center > table,tr,td{float:left; margin:1px 0px 10px 0px;}
+#center > table,tr,td > a:hover{color:#000;}
+/*다신샵 정보 박스*/
+#info > p{font-size:13px; color:#999; letter-spacing:-0.03em; line-height:25px;}
+#info > a > button{font-size:12px; color:#333; letter-spacing:-0.08em; background-color:#f4f4f4;
+border:1px solid #c7c7c7; margin:10px 0px; padding:5px 2px;}
+#info > a > button:hover{cursor:pointer;}
+#info > a> img{margin:30px 0px 0px 0px; opacity:0.5;}
+/*입금 계좌&sns링크 박스*/
+#count > #count_number{width:250px; height:150px; border:1px solid #444; color:#444; font-size:13px; line-height:25px;}
+#count > #count_number > ul{width:230px; height:130px; margin:10px 10px;}
+#count > #count_number > ul > li > span{margin:0px 25px 0px 0px;}
+#count > #sns_icon > a > img{border:1px solid #d9d9d9; margin:2px 0px 0px 0px}
+#count > #sns_icon > a > img:hover{border:1px solid #000;}
+/*footer 종료*/

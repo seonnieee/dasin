@@ -1,0 +1,160 @@
+@charset "utf-8";
+
+   /*메인 선택 목록 시작*/
+      #box3{width:100%; height:50px; margin:0 auto; border-top:1px solid rgb(231, 231, 231); border-bottom:1px solid rgb(231,231,231);}
+      nav{width:1260px; height:50px; margin:0 auto;}
+      nav > ul {background-color:yellow;}
+      nav> ul > li > a{text-decoration:none; color:black; float:left;}
+      nav > ul > li > a:hover{color:#d12268}
+      nav > ul > li{font-size:16.2px; font-weight:bold; float:left; margin:15px 35px 0px 0px;}
+      nav > ul > #all{box-sizing:border-box;}
+      nav > ul > #all{width:160px; height:50px; color:#eee; background-color:#d12268; margin:0px 35px 0px 10px; padding:15px 0px 0px 0px; text-align:center;}
+      nav > ul > #all:hover{cursor:pointer;}
+      #colored > a{color:#d12268;}
+   /*메인 선택 목록 종료*/
+
+   /*전체 카테고리 안에 디테일 메뉴 시작*/
+     #all_detail{font-size:16.2px; width:160px; margin:20px 0px 0px 0px; display:none;}
+      #all_detail > li > a{text-decoration:none; display:block; color:#fff; background-color:#d12268; height:44.5px;  letter-spacing:-0.08em; text-align:center; border-top:1px solid #eee; padding:10px 0px 0px 0px;}
+      #all_detail > li > a:hover{background-color:#fff; color:#d12268;}
+   /*전체 카테고리 안에 디테일 메뉴 종료*/
+
+  /*판매상품 메인 이미지&판매정보*/
+        #submenu{width:1100px; height:30px; margin:0 auto; }
+        #submenu > ul{width:1100px; height:20px;}
+        #submenu > ul > li > a{text-decoration:none; font-size:14px; color:#4d4d4d;}
+ /*판매상품 메인 이미지*/
+        #main_content{width:1100px; height:770px; margin:0 auto;}
+        #main_product{width:500px; height:700px; float:left; margin:0px 10px 0px 0px;}
+        #main_imgbox{width:100%; height:500px; float:left; position:relative;}
+        #main_imgbox > img{width:100%; height:100%; position:absolute; top:0; left:0;}
+        #main_imgbox > img:not(:first-child){display:none;}
+        #sub_imgbox{width:100%; height:80px; display:inline-block; margin:15px 0px;}
+        #sub_imgbox > img{width:70px; height:70px; display:inline-block; margin:5px 1px;}
+        #sub_imgbox > img:nth-of-type(1){margin:5px 0px 5px 20px;}
+        #main_iconbox{width:100%; height:50px; margin:10px 0px 0px 0px;}
+        #main_iconbox > a:nth-of-type(1){margin:0px 0px 0px 165px;}
+        .main_icon{width:73px; height:50px; display:inline-block; margin:0px 10px 0px 0px; border:1px solid #2e2e2e;}  
+        .main_icon:hover{border:1px solid #d7266d;}
+        .main_icon > img{width:26px; height:26px; margin:12px 24px;}
+     /*판매 메인 판매정보 - 타이틀*/
+     #main_info{width:575px; height:740px; float:right;}
+     #product_title{width:100%; height:95px; display:inline-block; }
+     #product_title > h1{width:100%; height:35px; display:inline-block; margin:5px 0px; color:#000; font-size:30px; font-weight:bold; letter-spacing:-0.08em;}
+     #product_title > p{width:100%; height:50px; display:inline-block; padding:10px 0px 25px 0px; color:#333; font-size:20px; font-weight:500; letter-spacing:-0.05em; border-bottom:1px solid #e1e1e1;}
+     /*판매 메인 판매정보 - 판매가격*/
+     #product_price{width:100%; height:80px; box-sizing:border-box; border-bottom:1px solid #e1e1e1;}
+     #product_price > span:nth-of-type(1){width:70px; height:25px; display:inline-block; margin: 30px 0px; color:#999; font-size:15px; font-weight:400; letter-spacing:-0.05em;}
+     #product_price > #price{width:30px; height:35px; padding:0px 5px;
+        font-size:30px; color:#262626; font-weight:500; letter-spacing:-0.05em;}
+     #product_price > #price:after{content:"원"; font-size:20px; color:#666;}
+     #product_price > #wonga{font-size:20px; color:#666; letter-spacing:-0.05em; padding:0px 5px 0px 0px;}
+     #product_price > #sale{font-size:30px; color:#d7266d; font-weight:500; letter-spacing:-0.05em;}
+     #product_price > #sale:after{content:"%"; font-size:20px; color:#d7266d;}
+     /*상품 메인 판매정보 - 적립금*/
+     #point{width:100%; height:60px; box-sizing:border-box;}
+     #point > span{width:70px; height:25px; display:inline-block; margin: 20px 0px; color:#999; font-size:15px; font-weight:400; letter-spacing:-0.05em;}
+     #point > p{display:inline-block; color:#666; font-size:16px; font-weight:400; letter-spacing:-0.05em;}
+     /*상품 메인 판매정보 - 배송*/
+     #deliver{width:100%; height:100px; box-sizing:border-box;}
+     #deliver > span:nth-of-type(1){width:70px; height:25px; display:inline-block; margin: 10px 0px; color:#999; font-size:15px; font-weight:400; letter-spacing:-0.05em;}
+     #deliver > #deliver_content{width:480px; height:120px; float:right; margin:10px 20px 0px 0px;}
+     #deliver > #deliver_content > span{display:inline-block; color:#666; font-size:16px; font-weight:400; letter-spacing:-0.05em; margin:0px 0px 15px 0px;}
+
+     /*상품 메인 판매정보 - 당일출고*/
+     #today{width:100%; height:180px; border-bottom:1px solid #e1e1e1;}
+     #today > span{width:70px; height:25px; display:inline-block; margin:10px 0px; color:#999; font-size:15px; font-weight:400; letter-spacing:-0.05em;}
+     #today > div{width: 496px; height:50px; float:left; float:right; margin:-35px 5px 0px 0px;}
+     #today > div > span:nth-of-type(1){font-size:16px; color:#d7266d; letter-spacing:-0.05em;}
+     #today > div > span:nth-of-type(2){font-size:14px; color:#666; letter-spacing:-0.05em;}
+     #today > a > img{width:100%; height:80px; margin:10px 0px 0px 0px;}
+     /*구매상품 선택 섹션*/
+     #product_select{width:100%; height:100px; border-bottom:1px solid#e1e1e1;}
+     #product_select > span{width:70px; height:25px; float:left; margin:10px 0px; color:#999; font-size:15px; font-weight:400; letter-spacing:-0.05em;}
+     #product_select > #option{width:435px; height:50px; font-size:16px; float:right; margin:10px 60px 0px 0px;}
+    /*총 결제금액 섹션*/
+    #total_price{width:100%; height:90px;}
+    #total_price > span:nth-of-type(2){float:right; font-size:20px; color:#333; letter-spacing:-0.05px; font-weight:bold; display:inline-block; margin:30px 10px 0px 0px;}
+    #total_price > span:nth-of-type(1){float:right; display:inline-block; color:#d7226d; font-size:22px; letter-spacing:-0.05px; font-weight:bold; margin:17px 0px 0px 0px;}
+    #total_price > span:nth-of-type(1):before{content:"0"; font-size:35px;}
+    /*구매&장바구니 버튼*/
+    #buy_select{width:100%; height:60px;}
+    #buy_select > a > button{width:250px; height:50px; margin:0px 5px;}
+    #buy{margin:0px 0px 0px 25px;}
+    #buy > button{background-color:#d7226d; border:none; color:#fff; font-weight:bold;}
+    #buy > button{cursor:pointer;}
+    #basket > button{background-color:#fff; border:1px solid#d7226d; color:#d7226d; font-weight:bold;}
+    #basket > button:hover{color:#fff; background-color:#d7226d; cursor:pointer;}
+
+
+     /*포토 후기 시작*/
+     #photo_review{width:1100px; height:170px; margin:0 auto;}
+     #review_title{width:1100px; height:60px; float:left; margin:0 auto;}
+     #review_title > h3{width:500px; height:30px; float:left; font-size:20px; color:#383838; letter-spacing:-0.05em; font-weight:400;}
+     #review_title > h3:after{content:"1,743"; color:#d7266d;}
+     #review_title > a > p{text-decoration:none; display:inline-block; float:right; color:#888; font-size:16px; margin:0px 15px 0px 0px;}
+     #review_photo{width:1100px; height:115px; margin:0 auto;}
+     #review_photo > a > img{width:110px; height:110px; border-radius:8px; margin:0px 7px 0px 0px;}
+
+     /*베스트 연관상품*/
+     #top_link{width:1100px; height:345px; margin:0 auto;}
+     #top_link_title{width:100%; height:35px; margin:0 auto; border-bottom:1px solid #e5e5e5;}
+     #top_link_title > h3{width:400px; height:30px; float:left; color:#383838; font-size:18px; letter-spacing:-0.05em; font-weight:400;}
+     #top_link_title > h3:after{content:" 많이 본 상품"; color:#d7226d;}
+     #top_link > ul{width:1100px; height:300px; margin:0 auto;}
+     #top_link > ul > li{width:210px; height:290px; float:left; margin:0px 10px 0px 0px;}
+     #top_link > ul > li:hover{border:1px solid#d7226d; cursor:pointer;}
+     #top_link > ul > li > a{text-decoration:none;}
+     #top_link > ul > li > a > img{width:205px; height:205px; margin:1px 2px; border-radius:8px;}
+     .link_title{width:210px; height:55px; color:#232323; font-size:16px; letter-spacing:-0.05em; overflow:hidden; font-weight:bold; line-height:20px;}
+     .link_price{width:50px; color:#232323; font-size:16px; letter-spacing:-0.05em; font-weight:bold;}
+     .link_wonga{color:#909090; font-size:13px; letter-spacing:-0.05em;}
+     #top_link > ul > li > a > button{float:right; margin:0px 5px 0px 0px; border:1px solid#d7226d; color:#d7226d; padding:2px 2px; font-size:13px;}
+     /*상세설명 섹션*/
+     /*'#detail'은 내용 전체를 담는다.*/
+     #detail{width:1100px; height:6865px; margin:0 auto;}
+     #explan_select > ul{width:100%; height:50px; margin:0 auto; border-top:1px solid#767676; border-bottom:1px solid#767676;}
+     #explan_select > ul > li{width:275px; height:34px; float:left; text-align:center; ; margin: 15px 0px 10px 0px;}
+     #explan_select > ul > li:hover{border-bottom:1px solid#000;}
+     #explan_select > ul > li > a{text-decoration:none; color:#000;}
+     #first_banner > a> img{width:800px; height:185px; margin:0px 150px;}
+     #first_imgbox > img{width:800px; height:1620px; margin:-5px 150px 0px 150px;}
+     /*구매정보시작*/
+     #buy_info{width:1100px; height:520px; margin:0 auto;}
+     #buy_info_title{width:100%; height:90px; margin:0 auto; border-bottom:1px solid#767676;}
+     #buy_info_title > h1{width:800px; height:50px; margin:0px 0px 10px 0px; font-size:24px; color:#000; letter-spacing:-0.05em;}
+     #buy_info_title > h3{width:800px; height:20px; color:#111; font-size:18px; letter-spacing:-0.05em;}
+     #buy_info_content{width:100%; height:400px; margin:5px 0px 0px 0px; line-height:20px;}
+     /*별점상품후기 시작*/
+     #review_rank{width:1100px; height: 1010px; margin:0 auto;}
+     #rank_title{width:100%; height:50px; border-bottom:1px solid#767676;}
+     #rank_title > h1{width:800px; height:35px;  margin:0px 0px 10px 0px; font-size:24px; color:#000; letter-spacing:-0.05em;}
+     .rank_content{width:1100px; height:320px; border-bottom:1px solid #767676;}
+     .rank_star{width:95px; height:20px; float:left; margin: 10px 0px 0px 0px;}
+     .rank_star > img{width:17px; height:17px; margin:0px -5px 0px 0px;}
+     .rank_text{width:1100px; height:20px; float:left; margin: 23px 0px 10px 0px; font-size:18px; color: #444; letter-spacing:-0.04em;}
+     .user_id{width:200px; height:20px; float:left; margin:12px 0px 0px 0px; font-size:14px; color:#888;}
+     .rank_img{width:200px; height:230px; float:left;}
+     .rank_img > span{font-size:15px; color:#000; font-weight:bold; letter-spacing:-0.05em;}
+     .rank_img > img{width:200px; height:200px; margin:10px 0px 0px 0px;}
+     /*상품 문의 시작*/
+     #product_qa{width:1100px; height:450px; margin:0 auto;}
+     #qa_title{width:100%; height:50px;}
+     #qa_title > h1{width:800px; height:35px; margin:0px 0px 10px 0px; font-size:24px; color:#000; letter-spacing:-0.05em;}
+     #qa_write{width:1100px; height:90px;}
+     #qa_write > a > button{width:130px; height:50px; float:right; color:#333; background-color:#fff; border:1px solid#333;}
+     #qa_write > a > button:hover{color:#d7226d; border:1px solid#d7226d; cursor:pointer;}
+
+
+
+     #qa_tablebox{width:1100px; height:300px; }
+     #qa_tablebox > table th:first-of-type {width:100px; height:40px; line-height:40px; font-weight:bold; text-align:center; border-bottom:1px solid #767676; color:#333;}
+     #qa_tablebox > table th:nth-of-type(2){width:680px; font-weight:bold; text-align:center; border-bottom:1px solid #767676; color: #333}
+     #qa_tablebox > table th:nth-of-type(3){width:200px; font-weight:bold; text-align:center; border-bottom:1px solid #767676; color: #333}
+     #qa_tablebox > table th:last-of-type{width:120px; font-weight:bold; text-align:center; border-bottom:1px solid #767676; color: #333}
+
+     #qa_tablebox > table td:first-of-type {width:100px; height:30px; text-align:center; border-bottom:1px solid #767676;}
+     #qa_tablebox > table td:nth-of-type(2) {width:680px; height:30px; border-bottom:1px solid #767676;}
+     #qa_tablebox > table td:nth-of-type(3) {width:200px; height:30px; text-align:center; border-bottom:1px solid #767676;}
+     #qa_tablebox > table td:last-of-type {width:120px;  height:30px; text-align:center; border-bottom:1px solid #767676;}
+     #qa_tablebox > table{display:inline-block; margin:0px auto; border-top:1px solid #767676; line-height:10px; width:1100px; font-size:13px; color:#333;}
