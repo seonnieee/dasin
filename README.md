@@ -24,7 +24,7 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 • stylesheet 파일로 참조하여 header 및 footer 서브페이지 재활용 <br>
 
 <strong>[JavaScript]</strong>–⭐추가 수정 작업⭐<br>
-• 네비게이션 메뉴 슬라이드 기능
+• 네비게이션 메뉴 슬라이드 기능 <br>
 – jQuery문법 사용하여 slideUp / slideDown 이벤트 사용<br>
 – https://seonnieee.github.io/dasin/js/menu.js <br>
 • 메인 광고 이미지 자동 슬라이더 기능 <br>
