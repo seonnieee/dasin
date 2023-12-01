@@ -12,8 +12,8 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 
 ## 기술 스택👩‍🔧
 ### [HTML5]
-• 홈페이지의 뼈대가 되는 구조 <br>
-• 시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer <br>
+• <strong>홈페이지의 뼈대가 되는 구조 </strong><br>
+• <strong>시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer </strong><br>
 
 ### [CSS]
 • 홈페이지의 HTML요소를 다채롭게 만드는 기능 <br>
