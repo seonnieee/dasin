@@ -26,7 +26,16 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 <strong>[JavaScript]</strong>–⭐추가 수정 작업⭐<br>
 • 네비게이션 메뉴 슬라이드 기능
 ✔ jQuery문법 사용하여 slideUp / slideDown 이벤트 사용<br>
-✔ https://seonnieee.github.io/dasin/js/menu.js
+✔ https://seonnieee.github.io/dasin/js/menu.js <br>
+• 메인 광고 이미지 자동 슬라이더 기능 <br>
+✔ marginLeft속성을 이용해 이미지 위치 이동 <br>
+✔ appendTo 함수을 이용해 첫번 째 이미지 뒤로 옮겨 붙이기 <br>
+✔ setInterval 함수를 이용해 5초마다 반복 실행 <br>
+✔ https://seonnieee.github.io/dasin/js/slider.js <br>
+• 할인 마감 시간 표시(타이머)
+✔ Date 내장객체 활용하여 현재부터 남은 시간 계산
+✔ 밀리초 단위 계산을 통해 일 / 시간 / 분 / 초로 단위 변경 표시
+✔https://seonnieee.github.io/dasin/js/timer.js
 
 ## 주요 기능⚙
 
