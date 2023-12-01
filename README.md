@@ -10,7 +10,14 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 [Main] https://seonnieee.github.io/dasin/ <br>
 [Sub] https://seonnieee.github.io/dasin/sub.html <br><br>
 
-## 기술 스택👩‍🔧 : HTML5 && CSS3 && JavaScript && Ajax && JSON
+## 기술 스택👩‍🔧
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
+
 ### [HTML5]
 • 홈페이지의 뼈대가 되는 구조 <br>
 • 시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer<br>
