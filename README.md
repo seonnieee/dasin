@@ -72,8 +72,8 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 <strong>Step6.</strong> 메뉴, 슬라이더, 타이머 관련 JavaScript / jQuery 학습 <br>
 <strong>Step7.</strong> 애니메이션 기능 추가 및 참조파일화 <br>
 <strong>Step8.</strong> 깃허브 2차 배포 <br>
-<strong>Step9.</strong> 상품 데이터 관리를 위해 JSON 구조화 작업
-<strong>Step10.</strong> 깃허브 3차 배포
+<strong>Step9.</strong> 상품 데이터 관리를 위해 JSON 구조화 작업 <br>
+<strong>Step10.</strong> 깃허브 3차 배포 <br>
 <strong>Step11.</strong> 수정과정 및 기능필요 내용 작업...ing <br>
 
 ## 최종 정리🤸‍♀️
