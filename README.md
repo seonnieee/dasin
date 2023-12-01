@@ -25,6 +25,8 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 
 <strong>[JavaScript]</strong>–⭐추가 수정 작업⭐<br>
 • 네비게이션 메뉴 슬라이드 기능
+✔ jQuery문법 사용하여 slideUp / slideDown 이벤트 사용<br>
+✔ https://seonnieee.github.io/dasin/js/menu.js
 
 ## 주요 기능⚙
 
