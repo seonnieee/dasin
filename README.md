@@ -1,2 +1,2 @@
-# dasin
-💪 START! My First Project_Shopping Mall || 💛 Use Stack ⇒  HTML5/ CSS3/ JavaScript / json
+# 프로젝트명
+쇼핑몰의 기본틀을 구성하자!
