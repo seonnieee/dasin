@@ -15,8 +15,8 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 • 홈페이지의 뼈대가 되는 구조 <br>
 • 시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer <br>
 
-<strong>[CSS]</strong><br>
-<p lineHeight="15px">
+<strong>[CSS]</strong>
+<p lineHeight="30px">
 • 홈페이지의 HTML요소를 다채롭게 만드는 기능 <br>
 • Img태그마다 hover 기능 추가 <br>
 &nbsp; – transition 속성을 통해 크게 변화를 부드럽게 함 <br>
