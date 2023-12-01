@@ -10,12 +10,12 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 [Main] https://seonnieee.github.io/dasin/ <br>
 [Sub] https://seonnieee.github.io/dasin/sub.html <br><br>
 
-## 기술 스택👩‍🔧
+## 기술 스택👩‍🔧 : HTML5 && CSS3 && JavaScript && Ajax && JSON
 ### [HTML5]
 • 홈페이지의 뼈대가 되는 구조 <br>
 • 시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer<br>
 
-### [CSS]
+### [CSS3]
 • 홈페이지의 HTML요소를 다채롭게 만드는 기능<br>
 • Img태그마다 hover 기능 추가<br>
 &nbsp;– transition 속성을 통해 크게 변화를 부드럽게 함 <br>
@@ -50,12 +50,13 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 
 ## 진행 과정🏃‍♀️
 <strong>Step1.</strong> 일주일 간 html / css 기본 기능 학습 <br>
-Step2. 이후 5일 간 메인페이지 구성(html / css) <br>
-Step3. css파일 stylesheet 파일화 <br>
-Step4. 5일 간 서브페이지 구성(html / css) <br>
-Step5. 메뉴, 슬라이더, 타이머 관련 JavaScript / jQuery 학습 <br>
-Step6. 애니메이션 기능 추가 및 참조파일화 <br>
-Step7. 깃허브 배포 <br>
-Step8. 수정과정 및 기능필요 내용 작업...ing <br>
+<strong>Step2.</strong> 이후 5일 간 메인페이지 구성(html / css) <br>
+<strong>Step3.</strong> css파일 stylesheet 파일화 <br>
+<strong>Step4.</strong> 5일 간 서브페이지 구성(html / css) <br>
+<strong>Step5.</strong> 메뉴, 슬라이더, 타이머 관련 JavaScript / jQuery 학습 <br>
+<strong>Step6.</strong> 애니메이션 기능 추가 및 참조파일화 <br>
+<strong>Step7.</strong> 깃허브 배포 <br>
+<strong>Step8.</strong> 수정과정 및 기능필요 내용 작업...ing <br>
 
 ## 최종 정리🤸‍♀️
+• 
