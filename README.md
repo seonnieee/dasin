@@ -50,7 +50,7 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 &nbsp;– 실제 서버데이터는 없기 때문에 JSON구조 파일화  <br>
 &nbsp;– https://github.com/seonnieee/dasin/tree/main/json
 • ajax 기능을 이용해 JSON파일 데이터 화면에 구현하기 <br>
-&nbsp;– https://github.com/seonnieee/dasin/blob/main/js/product.js
+&nbsp;– https://github.com/seonnieee/dasin/blob/main/js/product.js <br><br>
 
 ## 주요 기능⚙
 • 메인페이지 상세메뉴 구성 <br>
@@ -61,7 +61,7 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 • 서브페이지 상품후기 <br>
 • 서브페이지 상품 상세정보 <br>
 • 서브페이지 연관상품 <br>
-• 서브페이지 문의 <br>
+• 서브페이지 문의 <br><br>
 
 ## 진행 과정🏃‍♀️
 <strong>Step1.</strong> 일주일 간 html / css 기본 기능 학습 <br>
@@ -74,7 +74,7 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 <strong>Step8.</strong> 깃허브 2차 배포 <br>
 <strong>Step9.</strong> 상품 데이터 관리를 위해 JSON 구조화 작업 <br>
 <strong>Step10.</strong> 깃허브 3차 배포 <br>
-<strong>Step11.</strong> 수정과정 및 기능필요 내용 작업...ing <br>
+<strong>Step11.</strong> 수정과정 및 기능필요 내용 작업...ing <br><br>
 
 ## 최종 정리🤸‍♀️
 • 첫 번째 프로젝트인 만큼 프론트엔드의 가장 기초가 되는 언어인 HTML과 CSS를 통해서 주된 작업을 진행하였다. <br>
