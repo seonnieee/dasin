@@ -11,9 +11,12 @@ REFER TO 다신샵(Dasin Shop)
 [Sub] https://seonnieee.github.io/dasin/sub.html
 
 ## 기술 스택👩‍🔧
+<strong>[HTML5]</strong> <br>
+홈페이지의 뼈대가 되는 구조.
+시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer
 
 ## 주요 기능⚙
 
-## 프로젝트 진행 과정🏃‍♀️
+## 진행 과정🏃‍♀️
 
 ## 최종 정리🤸‍♀️
