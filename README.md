@@ -49,7 +49,7 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 • 서브페이지 문의 <br>
 
 ## 진행 과정🏃‍♀️
-Step1. 일주일 간 html / css 기본 기능 학습 <br>
+<strong>Step1.</strong> 일주일 간 html / css 기본 기능 학습 <br>
 Step2. 이후 5일 간 메인페이지 구성(html / css) <br>
 Step3. css파일 stylesheet 파일화 <br>
 Step4. 5일 간 서브페이지 구성(html / css) <br>
