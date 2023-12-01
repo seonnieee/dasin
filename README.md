@@ -8,7 +8,7 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 
 ## 사이트주소🚀
 [Main] https://seonnieee.github.io/dasin/ <br>
-[Sub] https://seonnieee.github.io/dasin/sub.html
+[Sub] https://seonnieee.github.io/dasin/sub.html <br><br>
 
 ## 기술 스택👩‍🔧
 <strong>[HTML5]</strong> <br>
