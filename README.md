@@ -9,3 +9,11 @@ REFER TO 다신샵(Dasin Shop)
 ## 사이트주소🚀
 [Main] https://seonnieee.github.io/dasin/ <br>
 [Sub] https://seonnieee.github.io/dasin/sub.html
+
+## 기술 스택👩‍🔧
+
+## 주요 기능⚙
+
+## 프로젝트 진행 과정🏃‍♀️
+
+## 최종 정리🤸‍♀️
