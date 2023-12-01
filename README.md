@@ -22,6 +22,8 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 • Img태그에 div 절대값 위치로 설정하여 gradient를 효과를 줌 <br>
 ✔ 건강한 식단팁 section 참고
 
+<strong>[JavaScript]</strong>–⭐추가 수정 작업⭐<br> 
+
 ## 주요 기능⚙
 
 ## 진행 과정🏃‍♀️
