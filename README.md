@@ -4,7 +4,7 @@
 쇼핑몰의 기본틀을 구성해보자! <br>
 기초적으로 학습한 HTML / CSS을 최대한 활용해보자! <br>
 CSS에서 제공하는 기본 마우스 hover 기능을 활용해 유저 즐거움 추가🤩 <br><br>
-REFER TO 다신샵(Dasin Shop)
+REFER TO 다신샵(Dasin Shop) <br><br>
 
 ## 사이트주소🚀
 [Main] https://seonnieee.github.io/dasin/ <br>
@@ -13,7 +13,9 @@ REFER TO 다신샵(Dasin Shop)
 ## 기술 스택👩‍🔧
 <strong>[HTML5]</strong> <br>
 • 홈페이지의 뼈대가 되는 구조. <br>
-• 시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer
+• 시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer <br>
+
+<strong>[CSS]</strong><br>
 
 ## 주요 기능⚙
 
