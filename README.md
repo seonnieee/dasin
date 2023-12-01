@@ -17,14 +17,13 @@ REFER TO 다신샵(Dasin Shop) <br><br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white">
 </p>
 
 ### [HTML5]
 • 홈페이지의 뼈대가 되는 구조 <br>
 • 시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer<br>
 
-### [CSS3]
+### [CSS]
 • 홈페이지의 HTML요소를 다채롭게 만드는 기능<br>
 • Img태그마다 hover 기능 추가<br>
 &nbsp;– transition 속성을 통해 크게 변화를 부드럽게 함 <br>
@@ -44,7 +43,14 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 • 할인 마감 시간 표시(타이머) <br>
 &nbsp;– Date 내장객체 활용하여 현재부터 남은 시간 계산 <br>
 &nbsp;– 밀리초 단위 계산을 통해 일 / 시간 / 분 / 초로 단위 변경 표시 <br>
-&nbsp;– https://seonnieee.github.io/dasin/js/timer.js <br><br>
+&nbsp;– https://seonnieee.github.io/dasin/js/timer.js <br>
+
+### [JSON && Ajax]–⭐추가 수정 작업⭐
+• 추후에 수정 작업이 편하도록 데이터 파일화하기!  <br>
+&nbsp;– 실제 서버데이터는 없기 때문에 JSON구조 파일화  <br>
+&nbsp;– https://github.com/seonnieee/dasin/tree/main/json
+• ajax 기능을 이용해 JSON파일 데이터 화면에 구현하기 <br>
+&nbsp;– https://github.com/seonnieee/dasin/blob/main/js/product.js
 
 ## 주요 기능⚙
 • 메인페이지 상세메뉴 구성 <br>
@@ -62,10 +68,13 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 <strong>Step2.</strong> 이후 5일 간 메인페이지 구성(html / css) <br>
 <strong>Step3.</strong> css파일 stylesheet 파일화 <br>
 <strong>Step4.</strong> 5일 간 서브페이지 구성(html / css) <br>
-<strong>Step5.</strong> 메뉴, 슬라이더, 타이머 관련 JavaScript / jQuery 학습 <br>
-<strong>Step6.</strong> 애니메이션 기능 추가 및 참조파일화 <br>
-<strong>Step7.</strong> 깃허브 배포 <br>
-<strong>Step8.</strong> 수정과정 및 기능필요 내용 작업...ing <br>
+<strong>Step5.</strong> 깃허브 1차 배포 <br>
+<strong>Step6.</strong> 메뉴, 슬라이더, 타이머 관련 JavaScript / jQuery 학습 <br>
+<strong>Step7.</strong> 애니메이션 기능 추가 및 참조파일화 <br>
+<strong>Step8.</strong> 깃허브 2차 배포 <br>
+<strong>Step9.</strong> 상품 데이터 관리를 위해 JSON 구조화 작업
+<strong>Step10.</strong> 깃허브 3차 배포
+<strong>Step11.</strong> 수정과정 및 기능필요 내용 작업...ing <br>
 
 ## 최종 정리🤸‍♀️
 • 
