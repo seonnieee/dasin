@@ -12,7 +12,7 @@ REFER TO 다신샵(Dasin Shop)
 
 ## 기술 스택👩‍🔧
 <strong>[HTML5]</strong> <br>
-홈페이지의 뼈대가 되는 구조.
+홈페이지의 뼈대가 되는 구조. <br>
 시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer
 
 ## 주요 기능⚙
