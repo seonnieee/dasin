@@ -11,7 +11,7 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 [Sub] https://seonnieee.github.io/dasin/sub.html <br><br>
 
 ## 기술 스택👩‍🔧
-### <strong>[HTML5]</strong> <br>
+### [HTML5]
 • 홈페이지의 뼈대가 되는 구조 <br>
 • 시맨트태그(semantic tag)로 레이아웃 구성 : header, nav, section, article, footer <br>
 
@@ -23,7 +23,7 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 &nbsp;– 건강한 식단팁 section 참고 <br>
 • stylesheet 파일로 참조하여 header 및 footer 서브페이지 재활용 <br>
 
-### <strong>[JavaScript]</strong>–⭐추가 수정 작업⭐<br>
+### [JavaScript]–⭐추가 수정 작업⭐
 • 네비게이션 메뉴 슬라이드 기능 <br>
 &nbsp;– jQuery문법 사용하여 slideUp / slideDown 이벤트 사용<br>
 &nbsp;– https://seonnieee.github.io/dasin/js/menu.js <br>
