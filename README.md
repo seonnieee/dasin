@@ -21,8 +21,10 @@ REFER TO 다신샵(Dasin Shop) <br><br>
 ✔ transition 속성을 통해 크게 변화를 부드럽게 함 <br>
 • Img태그에 div 절대값 위치로 설정하여 gradient를 효과를 줌 <br>
 ✔ 건강한 식단팁 section 참고
+• stylesheet 파일로 참조하여 header 및 footer 서브페이지 재활용 <br>
 
-<strong>[JavaScript]</strong>–⭐추가 수정 작업⭐<br> 
+<strong>[JavaScript]</strong>–⭐추가 수정 작업⭐<br>
+• 네비게이션 메뉴 슬라이드 기능
 
 ## 주요 기능⚙
 
